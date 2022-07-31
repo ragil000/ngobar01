@@ -1,0 +1,5 @@
+## Instalation
+
+```bash
+npm install
+```
